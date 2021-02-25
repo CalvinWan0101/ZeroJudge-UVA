@@ -51,6 +51,6 @@ int main()
 			case 'c':cout << "z"; break;
 			case ' ':cout << " "; break;
 			}
-		printf("\n");
+		cout<<endl;
 	}
 }
